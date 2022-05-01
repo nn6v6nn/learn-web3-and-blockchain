@@ -23,6 +23,6 @@ Solidity是非常流行的智能合约编程语言，专门为了EVM（Ethereum 
 
 ### 编辑器
 
-+ [Remix IDE](https://remix.ethereum.org/) , 是一款官方推荐的基于Web浏览器的在线集成开发环境，非常适合新手，**强烈推荐**
++ [Remix IDE](https://remix.ethereum.org/){target="_blank"} , 是一款官方推荐的基于Web浏览器的在线集成开发环境，非常适合新手，**强烈推荐**
 
 未完待续
